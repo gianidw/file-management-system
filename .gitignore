@@ -1,0 +1,13 @@
+.htaccess
+.htaccessOrig
+application/config/database.php
+application/config/config.php
+*/logs/log-*.php
+application/logs/log-*.php
+application/config/config.php
+application/views/Auth/connection.php
+vendor/autoload.php
+vendor/composer/autoload_real.php
+vendor/composer/autoload_static.php
+application/views/test.php
+assets/files
