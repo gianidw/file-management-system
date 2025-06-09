@@ -8,7 +8,7 @@ This is reuploaded to my personal repository to add to my project
 history and to serve as a template (unclean) for future similar
 projects.
 
----
+=======================================================================================================================================
 
 v1.26
 Updates:
