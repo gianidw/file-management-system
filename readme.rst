@@ -1,3 +1,15 @@
+v1.1.0
+
+Uploaded old project files into this repository. This is an organization
+intranet that focuses on file management system across different offices
+within the organization.
+
+This is reuploaded to my personal repository to add to my project
+history and to serve as a template (unclean) for future similar
+projects.
+
+---
+
 v1.26
 Updates:
 
